@@ -1,5 +1,5 @@
 [{"id":"dc484b43-23cd-4f82-9231-3b25c895d4d9","name":"HERMES CUIRS PRECIEUX","parent":""},
-{"id":"822e42b5-0fbf-4c30-81c7-de569cea6d0e","name":"Taizhou Goldenway Import and Export Co., Ltd.","parent":"dc484b43-23cd-4f82-9231-3b25c895d4d9"},
+{"id":"822e42b5-0fbf-4c30-81c7-de569cea6d0e","name":"Taizhou Goldenway Import and Export Co., Ltd.\n coucou","parent":"dc484b43-23cd-4f82-9231-3b25c895d4d9"},
 {"id":"440651ed-69f3-455b-96f9-a04241841a6b","name":"Guangzhou Ditengma International Trade Co., Ltd.","parent":"822e42b5-0fbf-4c30-81c7-de569cea6d0e"},
 {"id":"93f18119-580c-4bb1-907f-700dfb4c0211","name":"Quanzhou Tianqin Garment Co., Ltd.","parent":"822e42b5-0fbf-4c30-81c7-de569cea6d0e"},
 {"id":"703e3fd6-b6dc-491b-a13f-929fc572839a","name":"Yiwu Elodie Leather Goods Co., Ltd.","parent":"822e42b5-0fbf-4c30-81c7-de569cea6d0e"},
